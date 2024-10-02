@@ -1,4 +1,4 @@
-export { search } from "./header/search";
-export { header } from "./header/header";
+export { BannerSearch } from "./top-header/BannerSearch";
+export { BannerHeader } from "./top-header/BannerHeader";
 export { CardInformation } from "./card-information/CardInformation";
 export { Map } from "./map/Map";

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const search = () => {
+export const BannerSearch = () => {
   return (
     <div>search</div>
   )
