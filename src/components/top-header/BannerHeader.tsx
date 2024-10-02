@@ -5,8 +5,8 @@ export const BannerHeader = () => {
   return (
     <div className="flex justify-center w-full bg-[url('../app/images/pattern-bg-desktop.png')] p-8 bg-cover h-72 relative">
       <div className="text-center w-full flex flex-col justify-center items-center ">
-        <h1 className="text-2xl font-sans mb-5 font-bold"> IP Address Tracker</h1>
-        <div className=" w-96 ">
+        <h1 className="text-2xl font-sans mb-5 font-bold">IP Address Tracker</h1>
+        <div className="w-96 ">
           <form className="w-full mx-auto">
             <label
               htmlFor="default-search"
